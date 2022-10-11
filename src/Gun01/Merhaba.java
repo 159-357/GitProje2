@@ -9,6 +9,7 @@ public class Merhaba {
         for (int i = 0; i < 4; i++) {
             System.out.println("hello"+i);
         }
+        System.out.println("valla yapıyoz bişeyler");
 
     }
 }
