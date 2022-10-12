@@ -10,6 +10,7 @@ public class Merhaba {
             System.out.println("hello"+i);
         }
         System.out.println("valla yapıyoz bişeyler");
+        System.out.println("bişeyler bişeyler");
 
     }
 }
